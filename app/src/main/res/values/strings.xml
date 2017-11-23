@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Кафе Barcelona</string>
+    <string name="menu_1">Контакты</string>
+    <string name="menu_2">Новинки</string>
+    <string name="menu_3">Сегодня</string>
+    <string name="menu_4">Напитки</string>
+    <string name="menu_5">Меню</string>
+    <string name="title_activity_list">Список блюд</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "565871835005",
+    "firebase_url": "https://cafebarcelonasfu.firebaseio.com",
+    "project_id": "cafebarcelonasfu",
+    "storage_bucket": "cafebarcelonasfu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565871835005:android:f01897f262bd28f5",
+        "android_client_info": {
+          "package_name": "comanddrey_1.twitter.newb2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565871835005-tnfq8oqaid8ssc568fbhgf9gvk6fb6vi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comanddrey_1.twitter.newb2",
+            "certificate_hash": "5adcd69a38dd63e48bae281403c22457bf82c1b0"
+          }
+        },
+        {
+          "client_id": "565871835005-319g055o2k691ovs787a986o3h91jggs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDACp7KOLccSv4D3drfCkRzInmMY7V62AI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565871835005-319g055o2k691ovs787a986o3h91jggs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
